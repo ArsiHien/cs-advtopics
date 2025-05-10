@@ -1,4 +1,4 @@
-# Gaze Tracking Pipeline
+# Advanced topics in Computer Science
 
 This repository contains the implementation of a gaze tracking pipeline, sourced from [pperle/gaze-tracking-pipeline](https://github.com/pperle/gaze-tracking-pipeline).
 
@@ -7,8 +7,7 @@ This repository contains the implementation of a gaze tracking pipeline, sourced
 Follow these steps to set up and run the gaze tracking pipeline on your local machine.
 
 ### Prerequisites
-- Python 3.x
-- A compatible model checkpoint file (e.g., `p00.ckpt`)
+- Python 3.12
 
 ### Setup Instructions
 
